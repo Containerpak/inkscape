@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "name": "Inkscape",
   "description": "Create and edit vector graphics.",
-  "version": "1.4.0",
+  "version": "1.4.3",
   "image": "ghcr.io/containerpak/inkscape:main",
   "binaries": ["/usr/bin/inkscape"],
   "desktop_entries": ["/usr/share/applications/org.inkscape.Inkscape.desktop"],
