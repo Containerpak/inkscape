@@ -4,7 +4,7 @@
   "name": "Inkscape",
   "description": "Create and edit vector graphics.",
   "version": "1.4.3",
-  "image": "ghcr.io/containerpak/inkscape@sha256:e2c7dc11d1634ce32910e9a0192ec91cd57a8e2a8b4cc7ee74506b56f2c5a27e",
+  "image": "ghcr.io/containerpak/inkscape@sha256:369768d72f6fc6982163a4be9bc9b3701d748d3aaa2a7967a3e26690ebf5190b",
   "binaries": [
     "/usr/bin/inkscape"
   ],
